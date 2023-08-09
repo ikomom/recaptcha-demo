@@ -1,0 +1,13 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "scripts": {
+    "client": "vite"
+  },
+  "dependencies": {
+    "recaptcha-v3": "^1.10.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
